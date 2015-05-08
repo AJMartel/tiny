@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "name": "Attiny",
+      "maintainer": "Damian Pecile",
+      "websiteURL": "https://github.com/Coyotus/",
+      "email": "pecile_d@hotmail.com",
+      "help": {
+        "online": "https://github.com/Coyotus/"
+      },
+      "platforms": [
+        {
+          "name": "Attiny",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Attiny",
+          "help": {
+            "online": "https://github.com/Coyotus/"
+          },
+          "url": "https://github.com/Lauszus/Sanguino/releases/download/1.0.0/Sanguino.zip",
+          "archiveFileName": "tiny(1.6.3).zip",
+          "checksum": "SHA-256:1bfe7707894907a2792884fc726e1fe9251842fac75eaf5ef451bba0c18cbb4e",
+          "size": "88758",
+          "boards": [
+            {"name": "tiny(1.6.3)"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
