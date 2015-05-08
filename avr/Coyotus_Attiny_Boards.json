@@ -22,7 +22,16 @@
           "checksum": "SHA-256:d496a18100535486f2b2fef9c701e22b6108f715",
           "size": "90102",
           "boards": [
-            {"name": "tiny"}
+            {
+                     "name":"Attiny 84"
+                  },
+            {
+                     "name":"Attiny 85"
+                  },
+            {
+                     "name":"Attiny 2313"
+                  },
+                  
           ],
           "toolsDependencies": [
             {
