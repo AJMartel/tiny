@@ -17,10 +17,10 @@
           "help": {
             "online": "https://github.com/Coyotus/"
           },
-          "url": "https://github.com/Lauszus/Sanguino/releases/download/1.0.0/Sanguino.zip",
-          "archiveFileName": "tiny(1.6.3).zip",
-          "checksum": "SHA-256:1bfe7707894907a2792884fc726e1fe9251842fac75eaf5ef451bba0c18cbb4e",
-          "size": "88758",
+          "url": "https://codeload.github.com/Coyotus/Tiny-1.6.x/zip/tiny.zip",
+          "archiveFileName": "tiny.zip",
+          "checksum": "SHA-256:d496a18100535486f2b2fef9c701e22b6108f715",
+          "size": "90102",
           "boards": [
             {"name": "tiny(1.6.3)"}
           ],
